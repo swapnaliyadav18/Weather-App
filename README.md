@@ -11,5 +11,5 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Weather Radar
 
 ### Live-Preview
-[Click Here to View Live Preview]("C:\Projects\Weather App\Weather App\index.html")
+[Click Here to View Live Preview](file:///C:/Projects/Weather%20App/Weather%20App/index.html)
 
