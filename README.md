@@ -11,4 +11,5 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Weather Radar
 
 ### Live-Preview
-[Click Here to View Live Preview](https://github.com/swapnaliyadav18/Weather-App/index.html)
+[Click Here to View Live Preview](https://github.com/swapnaliyadav18/Weather-App/commit/9bc6dd4d0a3f360dd6ffa8d701df6fb38db85ef8)
+
